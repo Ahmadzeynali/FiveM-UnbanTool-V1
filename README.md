@@ -3,9 +3,10 @@
 
 
 
-One to two paragraph statement about your product and what it does.
+*This Premuim 100$ Spoofer Just Leaked Yesterday!*
 
-![](header.png)
+**PLEASE DON'T SELL IT!!**
+
 
 ## Installation
 
