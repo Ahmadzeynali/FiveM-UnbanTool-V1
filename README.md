@@ -1,14 +1,14 @@
-# FiveM Unban Tool 
+# 💫FiveM Unban Tool 
 > FiveM Premuim Unban Tool.
 
 
 
 *This Premuim 100$ Spoofer Just Leaked Yesterday!*
 
-**PLEASE DON'T SELL IT!!**
+**🌱PLEASE DON'T SELL IT!!**
 
 
-## Installation
+## 💫Installation
 
 
 Windows:
@@ -17,9 +17,9 @@ Windows:
  Open .exe File 
 ```
 
-## Release History
+## 💫Release History
 
-* 0.2.1
+* 1.12.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
     * CHANGE: Remove `setDefaultXYZ()`
