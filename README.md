@@ -12,7 +12,7 @@ One to two paragraph statement about your product and what it does.
 
 Windows:
 
-```Open .exe File 
+``` Open .exe File 
 ```
 
 ## Release History
