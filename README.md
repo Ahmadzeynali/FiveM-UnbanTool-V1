@@ -25,7 +25,7 @@ Windows:
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
 * 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+    * FIX: Crash when calling `baz()` 
 * 0.1.0
     * The first proper release
     * CHANGE: Rename `foo()` to `bar()`
